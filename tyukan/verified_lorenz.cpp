@@ -267,13 +267,7 @@ int main() {
 
 	//print_matrix(m, total);
 
-	/*ub::vector<double> v(3);
-	v(0) = 1; v(1) = 2; v(2) = 3;
-	for(int i = 0; i < 10000; i++) {
-		kv::rk(Func(), v, i * 0.001, (i + 1) * 0.001);
-		std::cout << v(0) << " " << v(1) << " " << v(2) << std::endl;
-	}
-	*/
+	
 
 	//kv::rk()
 	/*
